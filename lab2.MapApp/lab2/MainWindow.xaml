@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:WindowsPresentation="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation"
+    x:Class="lab2.MainWindow"
+        mc:Ignorable="d"
+        Title="MainMap.lb2" Height="900" Width="1508">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="85" Margin="1342,18,0,0" Stroke="Black" VerticalAlignment="Top" Width="124"/>
+        <Rectangle HorizontalAlignment="Left" Height="194" Margin="1342,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="124"/>
+
+        <WindowsPresentation:GMapControl Name="Map" Loaded="MapLoaded" HorizontalAlignment="Left" Height="860" Margin="10,14,0,0" VerticalAlignment="Top" Width="1327" MouseRightButtonDown="mrb_click" MouseDoubleClick="search"/>
+
+        <ComboBox x:Name="type" HorizontalAlignment="Left" Margin="1346,76,0,0" VerticalAlignment="Top" Width="116" SelectionChanged="type_SelectionChanged" Height="22">
+            <ComboBoxItem Content="Person"/>
+            <ComboBoxItem Content="Car"/>
+            <ComboBoxItem Content="Location"/>
+            <ComboBoxItem Content="Route"/>
+            <ComboBoxItem Content="Area"/>
+        </ComboBox>
+
+        <Button x:Name="clear" Content="Очистить поле" HorizontalAlignment="Left" Margin="1346,108,0,0" VerticalAlignment="Top" Height="22" Width="116" Click="clear_Click"/>
+
+        <TextBox x:Name="mName" HorizontalAlignment="Left" Height="21" Margin="1346,49,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="116"/>
+        <Label Content="Создание метки:" HorizontalAlignment="Left" Margin="1353,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="Найти:" HorizontalAlignment="Left" Margin="1381,150,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="mNameSearch" HorizontalAlignment="Left" Height="21" Margin="1346,176,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="116"/>
+        <Button x:Name="searchBtn" Content="Поиск" HorizontalAlignment="Left" Margin="1346,202,0,0" VerticalAlignment="Top" Height="22" Width="116" Click="searchBtn_Click"/>
+        <TextBox x:Name="searchedMarks" HorizontalAlignment="Left" Height="84" Margin="1347,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="114"/>
+        <Label Content="Найденные метки:" HorizontalAlignment="Left" Margin="1346,229,0,0" VerticalAlignment="Top" Width="116"/>
+    </Grid>
+</Window>

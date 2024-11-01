@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u0432\u0443\u0437\\2.1\\\u041F\u0438\u041E\u0413\u0418\\lab2.MapApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23214D5E-3576-4DD3-A4A8-7944A0401EBF}|lab2\\lab2.csproj|C:\\Users\\1\\Desktop\\\u0432\u0443\u0437\\2.1\\\u041F\u0438\u041E\u0413\u0418\\lab2.MapApp\\lab2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23214D5E-3576-4DD3-A4A8-7944A0401EBF}|lab2\\lab2.csproj|solutionrelative:lab2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23214D5E-3576-4DD3-A4A8-7944A0401EBF}|lab2\\lab2.csproj|c:\\users\\1\\desktop\\\u0432\u0443\u0437\\2.1\\\u043F\u0438\u043E\u0433\u0438\\lab2.mapapp\\lab2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23214D5E-3576-4DD3-A4A8-7944A0401EBF}|lab2\\lab2.csproj|solutionrelative:lab2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 456,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0432\u0443\u0437\\2.1\\\u041F\u0438\u041E\u0413\u0418\\lab2.MapApp\\lab2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0432\u0443\u0437\\2.1\\\u041F\u0438\u041E\u0413\u0418\\lab2.MapApp\\lab2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:09:13.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0432\u0443\u0437\\2.1\\\u041F\u0438\u041E\u0413\u0418\\lab2.MapApp\\lab2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0432\u0443\u0437\\2.1\\\u041F\u0438\u041E\u0413\u0418\\lab2.MapApp\\lab2\\MainWindow.xaml",
+              "RelativeToolTip": "lab2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-14T17:10:56.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4.button", "lb4.button\lab4.button.csproj", "{89685239-74E2-4A20-9852-3A6393B3188B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4.authorize", "lb4.authorize\lab4.authorize.csproj", "{46CF4D88-1807-4B6B-838C-7FFB1E43B235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89685239-74E2-4A20-9852-3A6393B3188B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89685239-74E2-4A20-9852-3A6393B3188B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89685239-74E2-4A20-9852-3A6393B3188B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89685239-74E2-4A20-9852-3A6393B3188B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CF4D88-1807-4B6B-838C-7FFB1E43B235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CF4D88-1807-4B6B-838C-7FFB1E43B235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CF4D88-1807-4B6B-838C-7FFB1E43B235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CF4D88-1807-4B6B-838C-7FFB1E43B235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DDF98D-79EA-49C2-A0DC-09C443153275}
+	EndGlobalSection
+EndGlobal

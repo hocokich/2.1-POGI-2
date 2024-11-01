@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}|lab3.ClickerGame\\lab3.ClickerGame.csproj|C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.clickergame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}|lab3.ClickerGame\\lab3.ClickerGame.csproj|solutionrelative:lab3.clickergame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}|lab3.ClickerGame\\lab3.ClickerGame.csproj|C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.clickergame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}|lab3.ClickerGame\\lab3.ClickerGame.csproj|solutionrelative:lab3.clickergame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}|lab3.ClickerGame\\lab3.ClickerGame.csproj|c:\\users\\1\\desktop\\unik\\2.1\\pogi2\\lab3.clickergame\\lab3.clickergame\\cobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}|lab3.ClickerGame\\lab3.ClickerGame.csproj|solutionrelative:lab3.clickergame\\cobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}|lab3.ClickerGame\\lab3.ClickerGame.csproj|C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.clickergame\\ccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}|lab3.ClickerGame\\lab3.ClickerGame.csproj|solutionrelative:lab3.clickergame\\ccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 738,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CObject.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.ClickerGame\\CObject.cs",
+              "RelativeDocumentMoniker": "lab3.ClickerGame\\CObject.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.ClickerGame\\CObject.cs",
+              "RelativeToolTip": "lab3.ClickerGame\\CObject.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:20:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.ClickerGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab3.ClickerGame\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.ClickerGame\\MainWindow.xaml",
+              "RelativeToolTip": "lab3.ClickerGame\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T18:31:10.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.ClickerGame\\CController.cs",
+              "RelativeDocumentMoniker": "lab3.ClickerGame\\CController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.ClickerGame\\CController.cs",
+              "RelativeToolTip": "lab3.ClickerGame\\CController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:12:34.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.ClickerGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab3.ClickerGame\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab3.ClickerGame\\lab3.ClickerGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab3.ClickerGame\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwGEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:55:26.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

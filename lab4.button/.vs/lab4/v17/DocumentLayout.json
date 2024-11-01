@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46CF4D88-1807-4B6B-838C-7FFB1E43B235}|lb4.authorize\\lab4.authorize.csproj|c:\\users\\1\\desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\personcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CF4D88-1807-4B6B-838C-7FFB1E43B235}|lb4.authorize\\lab4.authorize.csproj|solutionrelative:lb4.authorize\\personcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CF4D88-1807-4B6B-838C-7FFB1E43B235}|lb4.authorize\\lab4.authorize.csproj|C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\personcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46CF4D88-1807-4B6B-838C-7FFB1E43B235}|lb4.authorize\\lab4.authorize.csproj|solutionrelative:lb4.authorize\\personcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CF4D88-1807-4B6B-838C-7FFB1E43B235}|lb4.authorize\\lab4.authorize.csproj|c:\\users\\1\\desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CF4D88-1807-4B6B-838C-7FFB1E43B235}|lb4.authorize\\lab4.authorize.csproj|solutionrelative:lb4.authorize\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CF4D88-1807-4B6B-838C-7FFB1E43B235}|lb4.authorize\\lab4.authorize.csproj|C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46CF4D88-1807-4B6B-838C-7FFB1E43B235}|lb4.authorize\\lab4.authorize.csproj|solutionrelative:lb4.authorize\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1604,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lb4.authorize\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lb4.authorize\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:29:36.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\PersonCard.xaml.cs",
+              "RelativeDocumentMoniker": "lb4.authorize\\PersonCard.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\PersonCard.xaml.cs",
+              "RelativeToolTip": "lb4.authorize\\PersonCard.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:29:13.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lb4.authorize\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\MainWindow.xaml",
+              "RelativeToolTip": "lb4.authorize\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T11:27:36.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonCard.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\PersonCard.xaml",
+              "RelativeDocumentMoniker": "lb4.authorize\\PersonCard.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\unik\\2.1\\pogi2\\lab4.button\\lb4.authorize\\PersonCard.xaml",
+              "RelativeToolTip": "lb4.authorize\\PersonCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T11:27:27.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\bin\Debug\Resources\banana.gif
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\bin\Debug\lb4.button.exe.config
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\bin\Debug\lb4.button.exe
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\bin\Debug\lb4.button.pdb
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\obj\Debug\lab4.button.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\obj\Debug\lb4.button.Form1.resources
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\obj\Debug\lb4.button.Properties.Resources.resources
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\obj\Debug\lab4.button.csproj.GenerateResource.cache
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\obj\Debug\lab4.button.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\obj\Debug\lb4.button.exe
+C:\Users\1\Desktop\unik\2.1\pogi2\lab4.button\lb4.button\obj\Debug\lb4.button.pdb

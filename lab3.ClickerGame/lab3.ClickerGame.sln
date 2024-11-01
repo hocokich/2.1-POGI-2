@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3.ClickerGame", "lab3.ClickerGame\lab3.ClickerGame.csproj", "{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7200B6-4FFB-4200-9C2E-228E9A41EFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B4D7B2-26B0-4998-B9A2-26A5404391AC}
+	EndGlobalSection
+EndGlobal
